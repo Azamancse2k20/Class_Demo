@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Class_Demo01</string>
+    
+    <string name="john_doe">We\'re passionate about creating beatifull design
+    for stratups &amp; leading brands </string>
+    <string name="john_Text">FOLLOWERS \n 2500</string>
+    <string name="john_Text2">FOLLOWING \n 257</string>
+</resources>
